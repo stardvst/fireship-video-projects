@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "weaviate-ts-client": "^1.5.0"
+    "weaviate-ts-client": "^1.6.0"
   },
   "name": "01-image-search-engine",
   "version": "1.0.0",
